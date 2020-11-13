@@ -12,7 +12,6 @@ Click this button below to open a fresh new CDK development workspace in Gitpod
 ```bash
 npx projen new awscdk-app-ts
 
-#(https://gitpod.io/#https://github.com/pahud/gitpod-workspace)
 ```
 
 ## Start your CDK development
